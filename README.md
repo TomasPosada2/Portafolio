@@ -19,5 +19,5 @@ Este es mi portafolio personal desarrollado con HTML, CSS y JavaScript.
   cd Portafolio
 
 Puedes ver el portafolio en línea en:
-🔗https://github.com/TomasPosada2/Portafolio
+🔗[https://github.com/TomasPosada2/Portafolio](https://tomasposada2.github.io/Portafolio/)
 
