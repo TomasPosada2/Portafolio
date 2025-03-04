@@ -11,8 +11,13 @@ Este es mi portafolio personal desarrollado con HTML, CSS y JavaScript.
 
 1. Clona este repositorio:  
    ```sh
-   git clone https://github.com/TU-USUARIO/portfolio-web.git
+   git clone https://github.com/TomasPosada2/Portafolio.git
+
 
 2. Entra en la carpeta del proyecto:
   sh
-  cd portfolio-web
+  cd Portafolio
+
+Puedes ver el portafolio en línea en:
+🔗 https://TomasPosada2.github.io/Portafolio
+
