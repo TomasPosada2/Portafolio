@@ -15,7 +15,7 @@ Este es mi portafolio personal desarrollado con HTML, CSS y JavaScript.
 
 
 2. Entra en la carpeta del proyecto:
-  sh
+
   cd Portafolio
 
 Puedes ver el portafolio en línea en:
